@@ -105,7 +105,7 @@ Performed tests to determine which features significantly affect churn:
 ## 🚀 How to Run
 ```bash
 # Clone this repo
-git clone https://github.com/your-username/customer-churn-prediction.git
+https://github.com/Somitav/Churning_Bank_Customer.git
 cd customer-churn-prediction
 
 # Install dependencies
