@@ -124,5 +124,3 @@ pip install -r requirements.txt
 
 ---
 
-✍️ **Author:** [Your Name]  
-📅 **Date:** 2025  
