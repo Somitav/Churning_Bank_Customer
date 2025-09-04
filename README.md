@@ -90,13 +90,6 @@ Performed tests to determine which features significantly affect churn:
 **Top Features:**  
 `NumOfProducts > IsActiveMember > Age > Geography_Germany > Gender > Balance > CreditScore`
 
----
-
-## 🔮 Next Steps
-- Tune **XGBoost hyperparameters** for better ROC-AUC.
-- Adjust **decision threshold** to improve churn recall.
-- Apply **class imbalance techniques** (SMOTE, weight adjustments).
-- Deploy model via Flask API or Streamlit dashboard.
 
 ---
 
@@ -118,8 +111,7 @@ cd customer-churn-prediction
 # Install dependencies
 pip install -r requirements.txt
 
-# Run notebooks
-jupyter notebook notebooks/EDA_and_HypothesisTesting.ipynb
+
 ```
 
 ---
