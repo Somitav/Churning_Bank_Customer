@@ -9,12 +9,11 @@ We analyze customer demographics, account activity, and product usage to identif
 
 ## 📂 Project Structure
 ```
-├── data/
-│   └── Bank_Churn.csv              # Dataset
-├── notebooks/
-│   ├── EDA_and_HypothesisTesting.ipynb
-│   ├── LogisticRegression_Model.ipynb
-│   └── XGBoost_Model.ipynb
+├── Bank_Churn.csv  # Dataset
+
+│   ├── Fintech_Capstone_Project_(Losing_Bank_Customer.ipynb)
+   
+   
 ├── models/
 │   ├── logistic_regression.pkl
 │   └── xgboost_model.pkl
