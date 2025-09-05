@@ -66,6 +66,9 @@ Performed tests to determine which features significantly affect churn:
 
 ---
 
+<img width="546" height="296" alt="image" src="https://github.com/user-attachments/assets/8d6ace9f-5360-4892-94d2-f99e9ea83aa4" />
+
+---
 ## 🧠 Models & Results
 
 ### 1️⃣ Logistic Regression
@@ -79,7 +82,9 @@ Performed tests to determine which features significantly affect churn:
 `Geography_Germany > Age > Balance > IsActiveMember (negative) > Gender_Male (negative)`
 
 ---
+<img width="610" height="298" alt="image" src="https://github.com/user-attachments/assets/4ccf2bb7-690a-4d71-a777-adaff0659927" />
 
+---
 ### 2️⃣ XGBoost Classifier
 | Metric                  | Score |
 |------------------------|-------|
